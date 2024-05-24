@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-sizefromarray"
+description = "Nodes:SizeFromArray"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/ITurchenko/ComfyUI-SizeFromArray"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-SizeFromArray"
+Icon = ""
