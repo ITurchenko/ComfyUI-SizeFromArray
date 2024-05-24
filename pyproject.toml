@@ -1,14 +1,14 @@
 [project]
 name = "comfyui-sizefromarray"
-description = "Nodes:SizeFromArray"
+description = "Add node that outputs random pair of width and height from given array"
 version = "1.0.0"
-license = "LICENSE"
+license = "MIT license"
 
 [project.urls]
 Repository = "https://github.com/ITurchenko/ComfyUI-SizeFromArray"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "iturchenko"
 DisplayName = "ComfyUI-SizeFromArray"
 Icon = ""
