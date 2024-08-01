@@ -2,7 +2,7 @@
 name = "comfyui-sizefromarray"
 description = "Add node that outputs random pair of width and height from given array"
 version = "1.0.0"
-license = "MIT license"
+license = { text = "MIT License" }
 
 [project.urls]
 Repository = "https://github.com/ITurchenko/ComfyUI-SizeFromArray"
